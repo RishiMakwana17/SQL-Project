@@ -1,0 +1,338 @@
+event_id,discipline_id,discipline_event
+1,1,Archery Mixed Team
+2,2,Cycling Road Men's Road Race
+3,3,Fencing Men's Sabre Individual
+4,3,Fencing Women's &Eacute;p&eacute;e Individual
+5,4,Judo Men -60 kg
+6,4,Judo Women -48 kg
+7,5,Shooting 10m Air Pistol Men
+8,5,Shooting 10m Air Rifle Women
+9,6,Taekwondo Men -58kg
+10,6,Taekwondo Women -49kg
+11,7,Weightlifting Women's 49kg
+12,1,Archery Women's Team
+13,2,Cycling Road Women's Road Race
+14,8,Diving Women's Synchronised 3m Springboard
+15,3,Fencing Men's &Eacute;p&eacute;e Individual
+16,3,Fencing Women's Foil Individual
+17,4,Judo Men -66 kg18,4,Judo Women -52 kg
+19,5,Shooting 10m Air Pistol Women
+20,5,Shooting 10m Air Rifle Men
+21,9,Skateboarding Men's Street
+22,10,Swimming Men's 400m Freestyle
+23,10,Swimming Men's 400m Individual Medley
+24,10,Swimming Women's 4 x 100m Freestyle Relay
+25,10,Swimming Women's 400m Individual Medley
+26,6,Taekwondo Men -68kg
+27,6,Taekwondo Women -57kg
+28,7,Weightlifting Men's 61kg
+29,7,Weightlifting Men's 67kg
+30,1,Archery Men's Team
+31,11,Artistic Gymnastics Men's Team
+32,12,Canoe Slalom Men's Canoe
+33,13,Cycling Mountain Bike Men's Cross-country
+34,8,Diving Men's Synchronised 10m Platform
+35,3,Fencing Men's Foil Individual
+36,3,Fencing Women's Sabre Individual
+37,4,Judo Men -73 kg
+38,4,Judo Women -57 kg
+39,5,Shooting Skeet Men
+40,5,Shooting Skeet Women
+41,9,Skateboarding Women's Street
+42,10,Swimming Men's 100m Breaststroke
+43,10,Swimming Men's 4 x 100m Freestyle Relay
+44,10,Swimming Women's 100m Butterfly
+45,10,Swimming Women's 400m Freestyle
+46,14,Table Tennis Mixed Doubles
+47,6,Taekwondo Men -80kg
+48,6,Taekwondo Women -67kg
+49,15,Triathlon Men's Individual
+50,7,Weightlifting Women's 55kg
+51,11,Artistic Gymnastics Women's Team
+52,16,Baseball/Softball Softball
+53,12,Canoe Slalom Women's Kayak
+54,13,Cycling Mountain Bike Women's Cross-country
+55,8,Diving Women's Synchronised 10m Platform
+56,17,Equestrian Dressage Team
+57,3,Fencing Women's &Eacute;p&eacute;e Team
+58,4,Judo Men -81 kg
+59,4,Judo Women -63 kg
+60,5,Shooting 10m Air Pistol Mixed Team
+61,5,Shooting 10m Air Rifle Mixed Team
+62,18,Surfing Men
+63,18,Surfing Women
+64,10,Swimming Men's 100m Backstroke
+65,10,Swimming Men's 200m Freestyle
+66,10,Swimming Women's 100m Backstroke
+67,10,Swimming Women's 100m Breaststroke
+68,6,Taekwondo Men +80kg
+69,6,Taekwondo Women +67kg
+70,15,Triathlon Women's Individual
+71,7,Weightlifting Women's 59kg
+72,7,Weightlifting Women's 64kg
+73,19,3x3 Basketball Men
+74,19,3x3 Basketball Women
+75,11,Artistic Gymnastics Men's All-Around
+76,2,Cycling Road Men's Individual Time Trial
+77,2,Cycling Road Women's Individual Time Trial
+78,8,Diving Men's Synchronised 3m Springboard
+79,17,Equestrian Dressage Individual
+80,3,Fencing Men's Sabre Team
+81,4,Judo Men -90 kg
+82,4,Judo Women -70 kg
+83,20,Rowing Men's Double Sculls
+84,20,Rowing Men's Four
+85,20,Rowing Men's Quadruple Sculls
+86,20,Rowing Women's Double Sculls
+87,20,Rowing Women's Four
+88,20,Rowing Women's Quadruple Sculls
+89,21,Rugby Sevens Men
+90,10,Swimming Men's 200m Butterfly
+91,10,Swimming Men's 4 x 200m Freestyle Relay
+92,10,Swimming Women's 1500m Freestyle
+93,10,Swimming Women's 200m Freestyle
+94,10,Swimming Women's 200m Individual Medley
+95,7,Weightlifting Men's 73kg
+96,11,Artistic Gymnastics Women's All-Around
+97,12,Canoe Slalom Women's Canoe
+98,3,Fencing Women's Foil Team
+99,4,Judo Men -100 kg
+100,4,Judo Women -78 kg
+101,20,Rowing Lightweight Men's Double Sculls
+102,20,Rowing Lightweight Women's Double Sculls
+103,20,Rowing Men's Pair
+104,20,Rowing Women's Pair
+105,5,Shooting Trap Men
+106,5,Shooting Trap Women
+107,10,Swimming Men's 100m Freestyle
+108,10,Swimming Men's 200m Breaststroke
+109,10,Swimming Men's 800m Freestyle
+110,10,Swimming Women's 200m Butterfly
+111,10,Swimming Women's 4 x 200m Freestyle Relay
+112,14,Table Tennis Women's Singles
+113,1,Archery Women's Individual
+114,22,"Athletics Men's 10,000m"
+115,23,Badminton Mixed Doubles
+116,12,Canoe Slalom Men's Kayak
+117,24,Cycling BMX Racing Men
+118,24,Cycling BMX Racing Women
+119,3,Fencing Men's &Eacute;p&eacute;e Team
+120,4,Judo Men +100 kg
+121,4,Judo Women +78 kg
+122,20,Rowing Men's Eight
+123,20,Rowing Men's Single Sculls
+124,20,Rowing Women's Eight
+125,20,Rowing Women's Single Sculls
+126,5,Shooting 25m Pistol Women
+127,10,Swimming Men's 200m Backstroke
+128,10,Swimming Men's 200m Individual Medley
+129,10,Swimming Women's 100m Freestyle
+130,10,Swimming Women's 200m Breaststroke
+131,14,Table Tennis Men's Singles
+132,25,Tennis Men's Doubles
+133,26,Trampoline Gymnastics Women
+134,1,Archery Men's Individual
+135,22,Athletics 4 x 400m Relay Mixed
+136,22,Athletics Men's Discus Throw
+137,22,Athletics Women's 100m
+138,23,Badminton Men's Doubles
+139,27,Boxing Women's Feather (54-57kg)
+140,3,Fencing Women's Sabre Team
+141,4,Judo Mixed Team
+142,21,Rugby Sevens Women
+143,28,Sailing Men's Windsurfer - RS:X
+144,28,Sailing Women's Windsurfer - RS:X
+145,5,Shooting 50m Rifle 3 Positions Women
+146,5,Shooting Trap Mixed Team
+147,10,Swimming Men's 100m Butterfly
+148,10,Swimming Mixed 4 x 100m Medley Relay
+149,10,Swimming Women's 200m Backstroke
+150,10,Swimming Women's 800m Freestyle
+151,25,Tennis Men's Singles
+152,25,Tennis Mixed Doubles
+153,25,Tennis Women's Doubles
+154,25,Tennis Women's Singles
+155,26,Trampoline Gymnastics Men
+156,15,Triathlon Mixed Relay
+157,7,Weightlifting Men's 81kg
+158,7,Weightlifting Men's 96kg
+159,11,Artistic Gymnastics Men's Floor Exercise
+160,11,Artistic Gymnastics Men's Pommel Horse
+161,11,Artistic Gymnastics Women's Uneven Bars
+162,11,Artistic Gymnastics Women's Vault
+163,22,Athletics Men's 100m
+164,22,Athletics Men's High Jump
+165,22,Athletics Women's Shot Put
+166,22,Athletics Women's Triple Jump
+167,23,Badminton Women's Singles
+168,27,Boxing Men's Light Heavy (75-81kg)
+169,27,Boxing Men's Welter (63-69kg)
+170,29,Cycling BMX Freestyle Men's Park
+171,29,Cycling BMX Freestyle Women's Park
+172,8,Diving Women's 3m Springboard
+173,3,Fencing Men's Foil Team
+174,30,Golf Men's Individual Stroke Play
+175,28,Sailing Men's One Person Dinghy - Laser
+176,28,Sailing Women's One Person Dinghy - Laser Radial
+177,10,Swimming Men's 1500m Freestyle
+178,10,Swimming Men's 4 x 100m Medley Relay
+179,10,Swimming Men's 50m Freestyle
+180,10,Swimming Women's 4 x 100m Medley Relay
+181,10,Swimming Women's 50m Freestyle
+182,7,Weightlifting Women's 76kg
+183,11,Artistic Gymnastics Men's Rings
+184,11,Artistic Gymnastics Men's Vault
+185,11,Artistic Gymnastics Women's Floor Exercise
+186,22,Athletics Men's 3000m Steeplechase
+187,22,Athletics Men's Long Jump
+188,22,Athletics Women's 100m Hurdles
+189,22,Athletics Women's 5000m
+190,22,Athletics Women's Discus Throw
+191,23,Badminton Men's Singles
+192,23,Badminton Women's Doubles
+193,31,Cycling Track Women's Team Sprint
+194,17,Equestrian Eventing Individual
+195,17,Equestrian Eventing Team
+196,5,Shooting 25m Rapid Fire Pistol Men
+197,5,Shooting 50m Rifle 3 Positions Men
+198,7,Weightlifting Women's +87kg
+199,7,Weightlifting Women's 87kg
+200,32,Wrestling Men's Greco-Roman 130kg
+201,32,Wrestling Men's Greco-Roman 60kg
+202,32,Wrestling Women's Freestyle 76kg
+203,11,Artistic Gymnastics Men's Horizontal Bar
+204,11,Artistic Gymnastics Men's Parallel Bars
+205,11,Artistic Gymnastics Women's Balance Beam
+206,22,Athletics Men's 400m Hurdles
+207,22,Athletics Men's Pole Vault
+208,22,Athletics Women's 200m
+209,22,Athletics Women's 800m
+210,22,Athletics Women's Hammer Throw
+211,22,Athletics Women's Long Jump
+212,27,Boxing Men's Feather (52-57kg)
+213,27,Boxing Men's Heavy (81-91kg)
+214,33,Canoe Sprint Men's Canoe Double 1000m
+215,33,Canoe Sprint Men's Kayak Single 1000m
+216,33,Canoe Sprint Women's Kayak Double 500m
+217,33,Canoe Sprint Women's Kayak Single 200m
+218,31,Cycling Track Men's Team Sprint
+219,31,Cycling Track Women's Team Pursuit
+220,8,Diving Men's 3m Springboard
+221,28,Sailing Men's One Person Dinghy (Heavyweight) - Finn
+222,28,Sailing Men's Skiff - 49er
+223,28,Sailing Mixed Multihull - Nacra 17 Foiling
+224,28,Sailing Women's Skiff - 49er FX
+225,7,Weightlifting Men's 109kg
+226,32,Wrestling Men's Greco-Roman 77kg
+227,32,Wrestling Men's Greco-Roman 97kg
+228,32,Wrestling Women's Freestyle 68kg
+229,34,Artistic Swimming Duet
+230,22,Athletics Men's 200m
+231,22,Athletics Men's 800m
+232,22,Athletics Men's Decathlon
+233,22,Athletics Men's Hammer Throw
+234,22,Athletics Women's 3000m Steeplechase
+235,22,Athletics Women's 400m Hurdles
+236,22,Athletics Women's Heptathlon
+237,27,Boxing Men's Super Heavy (+91kg)
+238,27,Boxing Women's Fly (48-51kg)
+239,27,Boxing Women's Welter (64-69kg)
+240,31,Cycling Track Men's Team Pursuit
+241,17,Equestrian Jumping Individual
+242,35,Marathon Swimming Women's 10km
+243,28,Sailing Men's Two Person Dinghy - 470
+244,28,Sailing Women's Two Person Dinghy - 470
+245,9,Skateboarding Women's Park246,7,Weightlifting Men's +109kg
+247,32,Wrestling Men's Greco-Roan 67kg
+248,32,Wrestling Men's Greco-Roman 87kg
+249,32,Wrestling Women's Freestyle 62kg
+250,22,Athletics Men's 110m Hurdles
+251,22,Athletics Men's 20km Race Walk
+252,22,Athletics Men's 400m
+253,22,Athletics Men's Shot Put
+254,22,Athletics Men's Triple Jump
+255,22,Athletics Women's Pole Vault
+256,27,Boxing Men's Fly (48-52kg)
+257,27,Boxing Men's Middle (69-75kg)
+258,27,Boxing Women's Light (57-60kg)
+259,33,Canoe Sprint Men's Kayak Double 1000m
+260,33,Canoe Sprint Men's Kayak Single 200m
+261,33,Canoe Sprint Women's Canoe Single 200m
+262,33,Canoe Sprint Women's Kayak Single 500m
+263,31,Cycling Track Men's Omnium
+264,31,Cycling Track Women's Keirin
+265,8,Diving Women's 10m Platform
+266,36,Hockey Men
+267,37,Karate Men's Kumite -67kg
+268,37,Karate Women's Kata
+269,37,Karate Women's Kumite -55kg
+270,35,Marathon Swimming Men's 10km
+271,9,Skateboarding Men's Park
+272,38,Sport Climbing Men's Combined
+273,14,Table Tennis Women's Team
+274,32,Wrestling Men's Freestyle 57kg
+275,32,Wrestling Men's Freestyle 86kg
+276,32,Wrestling Women's Freestyle 57kg
+277,22,Athletics Men's 4 x 100m Relay
+278,22,Athletics Men's 5000m
+279,22,Athletics Men's 50km Race Walk
+280,22,Athletics Women's 1500m
+281,22,Athletics Women's 20km Race Walk
+282,22,Athletics Women's 4 x 100m Relay
+283,22,Athletics Women's 400m
+284,22,Athletics Women's Javelin Throw
+285,39,Beach Volleyball Women
+286,27,Boxing Men's Light (57-63kg)
+287,27,Boxing Women's Middle (69-75kg)
+288,31,Cycling Track Men's Sprint
+289,31,Cycling Track Women's Madison
+290,40,Football Women
+291,36,Hockey Women
+292,37,Karate Men's Kata
+293,37,Karate Men's Kumite -75kg
+294,37,Karate Women's Kumite -61kg
+295,41,Modern Pentathlon Women's Individual
+296,38,Sport Climbing Women's Combined
+297,14,Table Tennis Men's Team
+298,32,Wrestling Men's Freestyle 125kg
+299,32,Wrestling Men's Freestyle 74kg
+300,32,Wrestling Women's Freestyle 53kg
+301,34,Artistic Swimming Team
+302,22,Athletics Men's 1500m
+303,22,Athletics Men's 4 x 400m Relay
+304,22,Athletics Men's Javelin Throw
+305,22,"Athletics Women's 10,000m"
+306,22,Athletics Women's 4 x 400m Relay
+307,22,Athletics Women's High Jump
+308,22,Athletics Women's Marathon
+309,16,Baseball/Softball Baseball
+310,42,Basketball Men
+311,39,Beach Volleyball Men
+312,33,Canoe Sprint Men's Canoe Single 1000m
+313,33,Canoe Sprint Men's Kayak Four 500m
+314,33,Canoe Sprint Women's Canoe Double 500m
+315,33,Canoe Sprint Women's Kayak Four 500m
+316,31,Cycling Track Men's Madison
+317,8,Diving Men's 10m Platform
+318,17,Equestrian Jumping Team
+319,40,Football Men
+320,30,Golf Women's Individual Stroke Play
+321,43,Handball Men
+322,37,Karate Men's Kumite +75kg
+323,37,Karate Women's Kumite +61kg
+324,41,Modern Pentathlon Men's Individual
+325,44,Rhythmic Gymnastics Individual All-Around
+326,45,Volleyball Men
+327,46,Water Polo Women
+328,32,Wrestling Men's Freestyle 65kg
+329,32,Wrestling Men's Freestyle 97kg
+330,32,Wrestling Women's Freestyle 50kg
+331,22,Athletics Men's Marathon
+332,42,Basketball Women
+333,31,Cycling Track Men's Keirin
+334,31,Cycling Track Women's Omnium
+335,31,Cycling Track Women's Sprint
+336,43,Handball Women
+337,44,Rhythmic Gymnastics Group All-Around
+338,45,Volleyball Women
+339,46,Water Polo Mens
